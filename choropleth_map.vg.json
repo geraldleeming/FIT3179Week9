@@ -1,10 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "COVID-19 Active Cases (10 Oct 2020)",
+  "title": "World Happiness Index in 2015",
   "width": 800,
   "height": 600,
   "data": {
-    "url": "https://github.com/geraldleeming/FIT3179Week9/blob/main/custom.geo(1).json",
+    "url": "https://github.com/geraldleeming/FIT3179Week9/custom.geo(1).json",
     "format": {
           "type": "topojson",
           "feature": "custom.geo(1)"
