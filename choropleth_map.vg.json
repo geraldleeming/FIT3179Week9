@@ -34,7 +34,7 @@
       "type": "quantitative",
       "scale": {"type": "threshold",
                 "domain": [2,4,6],
-                "range": [#"ff0000",#"ff9999",#"99ff99","#009900"]}
+                "range": ["#ff0000","#ff9999","#99ff99","#009900"]}
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
